@@ -1,0 +1,9 @@
+livekit-agents
+livekit-plugins-gemini
+livekit-plugins-cartesia
+livekit-plugins-deepgram
+livekit-plugins-silero
+gspread
+python-dotenv
+twilio
+requests
